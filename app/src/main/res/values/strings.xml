@@ -1,0 +1,25 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="numb1" tools:ignore="DuplicateDefinition">number1</string>
+    <string name="result">Result</string>
+    <string name="addition1" tools:ignore="DuplicateDefinition">+</string>
+    <string name="subtract2" tools:ignore="DuplicateDefinition">-</string>
+    <string name="multi" tools:ignore="DuplicateDefinition">*</string>
+    <string name="division1" tools:ignore="DuplicateDefinition">/</string>
+    <string name="numb3" tools:ignore="DuplicateDefinition">number</string>
+    <string name="numb4" tools:ignore="DuplicateDefinition">number1</string>
+    <string name="numb5" tools:ignore="DuplicateDefinition">number1</string>
+    <string name="addition" tools:ignore="DuplicateDefinition">+</string>
+    <string name="subtract" tools:ignore="DuplicateDefinition">-</string>
+    <string name="multiplication">*</string>
+    <string name="division" tools:ignore="DuplicateDefinition">/</string>
+    <string name="numb2" tools:ignore="DuplicateDefinition">number2</string>
+    <string name="number1">number1</string>
+    <string name="number2">number2</string>
+    <string name="num1">num1</string>
+    <string name="num2">num2</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="res">result</string>
+</resources>
